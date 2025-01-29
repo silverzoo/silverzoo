@@ -6,7 +6,7 @@
 <a href="https://github.com/silverzoo"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silverzoo&layout=compact&theme=nord&hide_border=true" /></a> 
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silverzoo&repo=pyeonjip&theme=buefy)
-
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silverzoo&repo=CampingOn&theme=vue)
 
 <img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white"/></a>
 
