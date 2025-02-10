@@ -11,13 +11,18 @@ Loves challenges, learns and grows & Focuses on users to create better experienc
 <br>
 
 <p>
-  
+
 [![eunju's GitHub stats](https://github-readme-stats.vercel.app/api?username=silverzoo&count_private=true&show_icons=true&theme=aura)](https://github.com/silverzoo/github-readme-stats) 
 <a href="https://github.com/silverzoo">
-  <img style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silverzoo&layout=compact&theme=nord&hide_border=true" />
+  <img style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silverzoo&layout=compact&theme=aura&hide_border=true" />
 </a>  
 
 </p>
+
+<br>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=silverzoo030)](https://solved.ac/silverzoo030)
 
 <br>
 
