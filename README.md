@@ -10,22 +10,6 @@ Loves challenges, learns and grows & Focuses on users to create better experienc
 
 <br>
 
-<p>
-
-[![eunju's GitHub stats](https://github-readme-stats.vercel.app/api?username=silverzoo&count_private=true&show_icons=true&theme=aura)](https://github.com/silverzoo/github-readme-stats) 
-<a href="https://github.com/silverzoo">
-  <img style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silverzoo&layout=compact&theme=aura&hide_border=true" />
-</a>  
-
-</p>
-
-<br>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=silverzoo030)](https://solved.ac/silverzoo030)
-
-<br>
-
 ### 💻 Stacks  
 <p>
   <img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white"/>
@@ -55,8 +39,9 @@ Loves challenges, learns and grows & Focuses on users to create better experienc
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-plastic&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-plastic&logo=GitLab&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MySQL%20Workbench-4479A1?style=flat-plastic&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Vim-019733?style=flat-plastic&logo=Vim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-plastic&logo=Postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-plastic&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Vim-019733?style=flat-plastic&logo=Vim&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Notion-000000?style=flat-plastic&logo=notion&logoColor=white"/>
 </p>
 <p>
@@ -66,6 +51,31 @@ Loves challenges, learns and grows & Focuses on users to create better experienc
   <img src="https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat-plastic&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
   <img src="https://img.shields.io/badge/-InDesign-FF3366?style=flat-plastic&logo=Adobe%20InDesign&logoColor=white"/>
 </p>
+
+<br>
+
+### 🎖️ Stats
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/silverzoo">
+    <img style="height: 190px;" src="https://github-readme-stats.vercel.app/api?username=silverzoo&count_private=true&show_icons=true&theme=chartreuse-dark" />
+  </a>
+  
+  <a href="https://github.com/silverzoo">
+    <img style="height: 190px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silverzoo&layout=compact&theme=chartreuse-dark&hide_border=false" />
+  </a>
+</div>
+
+<br>
+
+<div style="display: flex; align-items: center;">
+  <a href="https://solved.ac/silverzoo030">
+    <img style="height: 194px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=silverzoo030" />
+  </a>
+  
+  <a href="https://solved.ac/silverzoo030">
+    <img style="height: 194px;" src="http://mazandi.herokuapp.com/api?handle=silverzoo030&theme=warm" />
+  </a>
+</div>
 
 <br>
 
