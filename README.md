@@ -1,6 +1,4 @@
-### Hi there! I'm Eunju Lee, a Developer Who Enjoys Challenges. 👾
-
-<br>
+## Hi there! I'm Eunju Lee, a Developer Who Enjoys Challenges. 👾
 
 ### 👀 About me
 #### Web Developer / Backend
