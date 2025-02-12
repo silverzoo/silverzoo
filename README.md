@@ -1,13 +1,16 @@
 ### Hi there! I'm Eunju Lee, a Developer Who Enjoys Challenges. 👾
 
-### ✨ 👀 About ME
+<br>
+
+### 👀 About me
 #### Web Developer / Backend
 <div>
-Developer with a visual design background
+  ∙ Developer with a visual design background. <br><br>
+  ∙ Loves challenges, learns and grows & focuses on users to create better experiences. <br><br>
+  ∙ Highly responsible for assigned tasks. <br><br>
+  ∙ Prefers documentation and enjoys sharing insights with the team.
 </div>
-<div>
-Loves challenges, learns and grows & Focuses on users to create better experiences
-</div>
+
 
 <br>
 
@@ -84,4 +87,4 @@ Loves challenges, learns and grows & Focuses on users to create better experienc
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silverzoo&repo=pyeonjip&theme=buefy)](https://github.com/silverzoo/pyeonjip)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silverzoo&repo=CampingOn&theme=vue)](https://github.com/silverzoo/CampingOn)
 
-#### 💘 Check Full Portfolio! ➜ [HERE](https://drive.google.com/file/d/1B2jszBZ_ZlJglZfnRN9fvS6M1hzlcLp_/view?usp=drive_link)
+#### 💘 Check my full portfolio! ➜ [HERE](https://drive.google.com/file/d/1B2jszBZ_ZlJglZfnRN9fvS6M1hzlcLp_/view?usp=drive_link)
