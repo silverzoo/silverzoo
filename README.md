@@ -59,11 +59,11 @@
 ### 🎖️ Stats
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/silverzoo">
-    <img style="height: 190px;" src="https://github-readme-stats.vercel.app/api?username=silverzoo&count_private=true&show_icons=true&theme=radical" />
+    <img style="height: 176px;" src="https://github-readme-stats.vercel.app/api?username=silverzoo&count_private=true&show_icons=true&theme=radical" />
   </a>
   
   <a href="https://github.com/silverzoo">
-    <img style="height: 190px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silverzoo&layout=compact&theme=neon&hide_border=false" />
+    <img style="height: 176px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silverzoo&layout=compact&theme=neon&hide_border=false" />
   </a>
 </div>
 
