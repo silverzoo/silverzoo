@@ -1,7 +1,7 @@
 ## Hi there! I'm Eunju Lee, a Developer Who Enjoys Challenges. 👾
 
 ### 👀 About me
-#### Web Developer / Backend
+#### Web Developer / Backend & Frontend
 <div>
   ∙ Developer with a visual design background. <br><br>
   ∙ Loves challenges, learns and grows & focuses on users to create better experiences. <br><br>
@@ -13,21 +13,26 @@
 
 ### 💻 Stacks  
 <p>
+  <img src="https://img.shields.io/badge/-svelte-FF3E00?style=flat-plastic&logo=svelte&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-plastic&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-plastic&logo=JavaScript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-shadcn/ui-000000?style=flat-plastic&logo=shadcn/ui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Material%20UI-007FFF?style=flat-plastic&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Tailwind%20Css-06B6D4?style=flat-plastic&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-plastic&logo=bootstrap&logoColor=white"/>
+
+</p>
+<p>
+  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-plastic&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-plastic&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-plastic&logo=Spring%20Security&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F?style=flat-plastic&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-plastic&logo=JavaScript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-plastic&logo=React&logoColor=black"/>
+
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-plastic&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-plastic&logo=Amazon-Web-Services&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-plastic&logo=Docker&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/-Material%20UI-007FFF?style=flat-plastic&logo=mui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Tailwind%20Css-06B6D4?style=flat-plastic&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-plastic&logo=bootstrap&logoColor=white"/>
 </p>
 
 <br>
