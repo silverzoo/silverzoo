@@ -13,10 +13,11 @@
 
 ### 💻 Stacks  
 <p>
-  <img src="https://img.shields.io/badge/-svelte-FF3E00?style=flat-plastic&logo=svelte&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat-plastic&logo=Svelte&logoColor=white"/>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-plastic&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-plastic&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-shadcn/ui-000000?style=flat-plastic&logo=shadcn/ui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Flowbite-2563EB?style=flat-plastic&logo=Flowbite&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Material%20UI-007FFF?style=flat-plastic&logo=mui&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Tailwind%20Css-06B6D4?style=flat-plastic&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-plastic&logo=bootstrap&logoColor=white"/>
