@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-plastic&logo=Postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-plastic&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Vim-019733?style=flat-plastic&logo=Vim&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-swagger-85EA2D?style=flat-plastic&logo=Swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-swagger-85EA2D?style=flat-plastic&logo=Swagger&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Notion-000000?style=flat-plastic&logo=notion&logoColor=white"/>
 </p>
 <p>
